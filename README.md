@@ -7,6 +7,7 @@
 - Brush up my RTL development skills
 - Learn new stuff
 - Teach others
+- Make a good use of my free time
 
 *Objectives:*
 - use open source tools
