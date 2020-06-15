@@ -6,7 +6,6 @@
 - Resurrect my project [Hardware architectures for infrared pedestrian detection systems](https://www.napier.ac.uk/research-and-innovation/research-search/outputs/hardware-architectures-for-infrared-pedestrian-detection-systems#downloads)
 - Brush up my RTL development skills
 - Learn new stuff
-- Teach others
 - Make a good use of my free time
 
 *Objectives:*
