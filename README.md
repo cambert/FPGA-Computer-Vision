@@ -1,4 +1,4 @@
-# FPGA Computer Vision (CV)
+# FPGA Computer Vision (FPGA-CV)
 
 **FPGA-CV** - my personal approach for Image/Video processing on FPGA. The main motivation is to bring back my PhD project back to life while learning new stuff. 
 
